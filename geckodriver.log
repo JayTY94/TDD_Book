@@ -1,0 +1,12 @@
+1711720059743	geckodriver	INFO	Listening on 127.0.0.1:50700
+1711720062840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\Firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\m4ple\\AppData\\Local\\Temp\\rust_mozprofilefRrAEa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711720063059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711720063108	Marionette	INFO	Listening on port 50712
+Read port: 50712
+1711720063224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1711720071008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1711720073381	Marionette	INFO	Stopped listening on port 50712
+Dynamically enable window occlusion 1
