@@ -10,3 +10,27 @@ Read port: 50712
 1711720071008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1711720073381	Marionette	INFO	Stopped listening on port 50712
 Dynamically enable window occlusion 1
+1712056956898	geckodriver	INFO	Listening on 127.0.0.1:52991
+1712056959979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\Firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\m4ple\\AppData\\Local\\Temp\\rust_mozprofilebx0Tjm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712056960550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712056960615	Marionette	INFO	Listening on port 53003
+Read port: 53003
+1712056960763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712056992386	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712057493346	geckodriver	INFO	Listening on 127.0.0.1:53089
+1712057496445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\Firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\m4ple\\AppData\\Local\\Temp\\rust_mozprofilezYp29a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712057496670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712057496721	Marionette	INFO	Listening on port 53099
+Read port: 53099
+1712057496842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712057498190	Marionette	INFO	Stopped listening on port 53099
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
